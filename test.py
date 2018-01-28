@@ -7,6 +7,10 @@ def aas():
     print(os.listdir(os.getcwd()))
 
 
-if __name__ == "__main_":
+#aas()
+if __name__ == "__main__":
     aas()
+    x=5
+    y=7
+    
     print('test')
